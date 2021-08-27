@@ -17,4 +17,7 @@ Após executar o comando acima, basta apenas abrir o seguinte endereço e visual
 
 `http://localhost:8080/api/v1/people`
 
+---
+> Java 11 | Spring Boot | Maven | Spring Boot | Heroku | H2 | Hibernate | Lombok | Mapstruct
+
 
